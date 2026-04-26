@@ -47,13 +47,13 @@ Age-Calculator/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https:/sagesakshi27/github.com//modern-age-calculator.git
+https://github.com/sagesakshi27Age-Calculator.git
 ```
 
 ### 2️⃣ Navigate to the project
 
 ```bash
-cd modern-age-calculator
+cd Age-Calculator
 ```
 
 ### 3️⃣ Open the app
