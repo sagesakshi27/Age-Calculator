@@ -47,7 +47,7 @@ Age-Calculator/
 ### 1️⃣ Clone the repository
 
 ```bash
-https://github.com/sagesakshi27Age-Calculator.git
+https://github.com/sagesakshi27/Age-Calculator.git
 ```
 
 ### 2️⃣ Navigate to the project
